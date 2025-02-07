@@ -7,8 +7,7 @@ Deploy a publicly accessible Apache web server on Azure using Terraform, followi
 
 ## 📋 Lab Steps
 
-### 1. Create an Architecture Diagram
-- **Tools**: Use [draw.io](https://app.diagrams.net/) or [Lucidchart](https://www.lucidchart.com/).
+### 1. Architecture Diagram
 - **Components**:
   - Resource Group
   - Virtual Network (VNet): `10.0.0.0/16`
